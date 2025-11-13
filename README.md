@@ -47,6 +47,7 @@ It features drag-and-drop mechanics, realistic pile behavior, and smooth visuals
 ---
 
 ## 🗂️ Folder Structure
+  ```text
   📁 solitaire-pygame
    ┣ 📂 assets/
    ┃ ┣ 📂 cards/
@@ -56,7 +57,7 @@ It features drag-and-drop mechanics, realistic pile behavior, and smooth visuals
    ┣ 📜 utils.py
    ┣ 📜 main.py
    ┗ 📜 README.md
-
+   ```
 ---
 
 ## 🏆 How to Play
